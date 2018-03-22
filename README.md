@@ -1,4 +1,4 @@
-Najprej si na spletni strani: poglej nekaj kratkih tutorialov, da boš lažje razumel Ruby on Rails in MVC sistem.
+Najprej si na spletni strani:http://railsforzombies.org/levels/1 poglej nekaj kratkih tutorialov, da boš lažje razumel Ruby on Rails in MVC sistem.
 
 Ustvari nov projekt. V konzolo napišeš naslednji ukaz, ki bo ustvaril novo rails aplikacijo imenovano Blog.
 ```
