@@ -1,0 +1,9 @@
+<div class="wrapper_with_padding">
+<% @blogs.each do |blog| %>
+    <div class="box panel panel-default">
+        <%= link_to(blog.title, blog) %><br>
+        <span><%= truncate(blog.body, length: 150) %></span><br>
+        <span><%= blog.user.email %></span>
+    </div>
+<% end %>
+</div>
